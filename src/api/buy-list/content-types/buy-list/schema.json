@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "buy_lists",
+  "info": {
+    "singularName": "buy-list",
+    "pluralName": "buy-lists",
+    "displayName": "buy-list"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "idproduct": {
+      "type": "biginteger"
+    }
+  }
+}
